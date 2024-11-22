@@ -12,7 +12,7 @@ import io.jsonwebtoken.SignatureAlgorithm;
 @Component
 public class JwtHelper {
 
-	 private static final String SECRET = "motupotuchotumotupotuagainchotumotupotuchotumotupotuagainchotumotupotuchotumotupotuagainchotu";
+	 private static final String SECRET = "sayansayan1547818485282sayansayan618816e81841848124884818sayannnnnnn";
 	 private static final long EXPIRATION_TIME = 864_000_000; // 10 days
 	    
 	
