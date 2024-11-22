@@ -12,7 +12,7 @@ import io.jsonwebtoken.SignatureAlgorithm;
 @Component
 public class Helper {
 
-	private String key = "Motu143333333333333333333333333333333333333333333333333333333333333333333333333333333";
+	private String key = "xyz43333333333333333333333333333333333333333333333333333333333333333333333333333333";
 	private static final long expDate = 864_000_000;
 
 	public String generateTokenByUserName(String username) {
